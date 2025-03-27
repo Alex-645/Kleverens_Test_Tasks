@@ -1,0 +1,14 @@
+D:\C# algorithms\Kleverens\bin\Debug\net8.0\Kleverens.exe
+D:\C# algorithms\Kleverens\bin\Debug\net8.0\Kleverens.deps.json
+D:\C# algorithms\Kleverens\bin\Debug\net8.0\Kleverens.runtimeconfig.json
+D:\C# algorithms\Kleverens\bin\Debug\net8.0\Kleverens.dll
+D:\C# algorithms\Kleverens\bin\Debug\net8.0\Kleverens.pdb
+D:\C# algorithms\Kleverens\obj\Debug\net8.0\Kleverens.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# algorithms\Kleverens\obj\Debug\net8.0\Kleverens.AssemblyInfoInputs.cache
+D:\C# algorithms\Kleverens\obj\Debug\net8.0\Kleverens.AssemblyInfo.cs
+D:\C# algorithms\Kleverens\obj\Debug\net8.0\Kleverens.csproj.CoreCompileInputs.cache
+D:\C# algorithms\Kleverens\obj\Debug\net8.0\Kleverens.dll
+D:\C# algorithms\Kleverens\obj\Debug\net8.0\refint\Kleverens.dll
+D:\C# algorithms\Kleverens\obj\Debug\net8.0\Kleverens.pdb
+D:\C# algorithms\Kleverens\obj\Debug\net8.0\Kleverens.genruntimeconfig.cache
+D:\C# algorithms\Kleverens\obj\Debug\net8.0\ref\Kleverens.dll
